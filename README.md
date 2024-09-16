@@ -5,9 +5,9 @@ This page is hosted at [ChandlerBlack.github.io](https://chandlerblack.github.io
 
 ## Projects
 ----------------------------------------------------------------------------------------------------------------------------------------------
- ### &nbsp; &nbsp; &nbsp; Completed:
+ &nbsp; &nbsp; &nbsp; Completed:
     
- ### &nbsp; &nbsp; &nbsp; In Progress:
+ &nbsp; &nbsp; &nbsp; In Progress:
 
  
 ## Project Ideas
